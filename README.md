@@ -3,7 +3,7 @@
 <!-- ==================== -->
 
 <p align="center">
-  [YOUR_HEADLINE_IMAGE_OR_AVATAR_URL](https://placehold.co/1584x396/transparent/FFF?font=raleway&text=Welcome+to+My+GitHub)
+  <img src="YOUR_HEADLINE_IMAGE_OR_AVATAR_URL" alt="Header Image" width="200"/>
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Yudhistira Anggara Jayadinata</h1>
