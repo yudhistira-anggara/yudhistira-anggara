@@ -43,7 +43,7 @@
 ## <a name="about-me">🧐 About Me</a>
 - 🔭 I’m currently working on *GIMP* (image editing tool).  
 - 🌱 I’m learning *Docker* and improving my *Coding Skill*.  
-- 💬 Ask me about *Programming, **Artificial Intelligence, **Journal & Ethics*.  
+- 💬 Ask me about *Programming,* *Artificial Intelligence,* *Journal & Ethics.*  
 
 ---
 
