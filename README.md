@@ -21,29 +21,28 @@
 
 <p align="center">
   <!-- Badges -->
-  <img src="https://img.shields.io/badge/Last%20Commit-<DATE>-blue">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-yudhistira-anggara-<COLOR>">
-  <img src="https://img.shields.io/badge/Top%20Langs-yudhistira-anggara-<COLOR>">
+  <img src="https://img.shields.io/github/last-commit/yudhistira-anggara/-yudhistira-anggara">
+  <img src="https://img.shields.io/github/followers/yudhistira-anggara">
 </p>
 
 ---
 
 ## 📖 Table of Contents
-1. [About Me](#about-me)  
-2. [Skills](#skills)  
+1. [About Me](##about-me)  
+2. [Skills](##skills)  
+3. [Activity](##activity)
+4. [Stats](##stats)
+5. [Contact Me](##contact-me)
 <!-- 3. [Pinned Projects](#pinned-projects)  
 4. [Featured Projects](#featured-projects)
 3. [Open Source Contributions](#open-source-contributions) -->
-3. [Activity](#activity)
-4. [Stats](#stats)
-5. [Contact Me](#contact-me)
 
 ---
 
 ## 🧐 About Me
 - 🔭 I’m currently working on *GIMP* (image editing tool).  
-- 🌱 I’m learning *Technology X* and improving my *Skill Y*.  
-- 💬 Ask me about *Topic 1, **Topic 2, **Topic 3*.  
+- 🌱 I’m learning *Docker* and improving my *Coding Skill*.  
+- 💬 Ask me about *Programming, **Artificial Intelligence, **Journal & Ethics*.  
 
 ---
 
