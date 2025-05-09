@@ -51,10 +51,10 @@
 
 | Domain       | Technologies                                 |
 | ------------ | -------------------------------------------- |
-| 💻 Languages | ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000), ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) |
-| 🖥 Frameworks | ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white), ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white), ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff), ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff), ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff), ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)              |
+| 💻 Languages | ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) |
+| 🖥 Frameworks | ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)              |
 | ☁ Cloud     | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)|
-| 📊 Data      | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff), ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff), ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white), ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)      |
+| 📊 Data      | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff) ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)      |
 
 ---
 <!--
@@ -113,11 +113,6 @@ Use GitHub’s [Pin feature](https://docs.github.com/en/repositories/organizing-
 
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=yudhistira-anggara&hide_border=true&theme=radical">
 | ------------- |
-
-| <img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=yudhistira-anggara&layout=compact&hide_border=true&theme=radical">
-| ------------- |
-
----
 
 ---
 
