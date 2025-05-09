@@ -28,25 +28,25 @@
 ---
 
 ## 📖 Table of Contents
-1. [About Me](##about-me)  
-2. [Skills](##skills)  
-3. [Activity](##activity)
-4. [Stats](##stats)
-5. [Contact Me](##contact-me)
+1. [About Me](#about-me)  
+2. [Skills](#skills)  
+3. [Activity](#activity)
+4. [Stats](#stats)
+5. [Contact Me](#contact-me)
 <!-- 3. [Pinned Projects](#pinned-projects)  
 4. [Featured Projects](#featured-projects)
 3. [Open Source Contributions](#open-source-contributions) -->
 
 ---
 
-## 🧐 About Me
+## 🧐 [About Me](#about-me)
 - 🔭 I’m currently working on *GIMP* (image editing tool).  
 - 🌱 I’m learning *Docker* and improving my *Coding Skill*.  
 - 💬 Ask me about *Programming, **Artificial Intelligence, **Journal & Ethics*.  
 
 ---
 
-## 🛠 Skills
+## 🛠 [Skills](#skills)
 
 | Domain       | Technologies                                 |
 | ------------ | -------------------------------------------- |
@@ -98,14 +98,14 @@ Use GitHub’s [Pin feature](https://docs.github.com/en/repositories/organizing-
 -->
 ---
 
-## 📈 Activity
+## [📈 Activity](#activity)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yudhistira-anggara&theme=github" />
 </p>
 
 ---
 
-## 📊 Stats
+## [📊 Stats](#stats)
   
 | <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yudhistira-anggara&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="yudhistira's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yudhistira-anggara&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="yudhistira's Most Used Language">
 | ------------- | ------------- |  
@@ -115,7 +115,7 @@ Use GitHub’s [Pin feature](https://docs.github.com/en/repositories/organizing-
 
 ---
 
-## 📞 Contact Me
+## [📞 Contact Me](#contact-me)
 Feel free to reach out for collaboration, freelance projects, or a quick chat:
 
 - *Email:* yudhistira.a.jayadinata@example.com  
