@@ -39,14 +39,14 @@
 
 ---
 
-## 🧐 [About Me](#about-me)
+## <a name="about-me">🧐 About Me</a>
 - 🔭 I’m currently working on *GIMP* (image editing tool).  
 - 🌱 I’m learning *Docker* and improving my *Coding Skill*.  
 - 💬 Ask me about *Programming, **Artificial Intelligence, **Journal & Ethics*.  
 
 ---
 
-## 🛠 [Skills](#skills)
+## <a name="skills">🛠 Skills</a>
 
 | Domain       | Technologies                                 |
 | ------------ | -------------------------------------------- |
@@ -98,14 +98,14 @@ Use GitHub’s [Pin feature](https://docs.github.com/en/repositories/organizing-
 -->
 ---
 
-## [📈 Activity](#activity)
+## <a name="activity">📈 Activity</a>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yudhistira-anggara&theme=github" />
 </p>
 
 ---
 
-## [📊 Stats](#stats)
+## <a name="stats">📊 Stats</a>
   
 | <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yudhistira-anggara&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="yudhistira's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yudhistira-anggara&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="yudhistira's Most Used Language">
 | ------------- | ------------- |  
@@ -115,7 +115,7 @@ Use GitHub’s [Pin feature](https://docs.github.com/en/repositories/organizing-
 
 ---
 
-## [📞 Contact Me](#contact-me)
+## <a name="contact-me">📞 Contact Me</a>
 Feel free to reach out for collaboration, freelance projects, or a quick chat:
 
 - *Email:* yudhistira.a.jayadinata@example.com  
