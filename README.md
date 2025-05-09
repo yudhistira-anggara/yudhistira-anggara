@@ -13,9 +13,9 @@
 
 <p align="center">
   <!-- Contact / Social Links -->
-  <a href="mailto:yudhistira.anggara.j+github@gmail.com">![Email: yudhistira.anggara.j+github@gmail.com](https://img.shields.io/badge/-yudhistira.anggara.j+github@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)</a> •
-  <a href="https://linkedin.com/in/yudhistira-anggara">![LinkedIn: Yudhistira Anggara Jayadianta](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yudhistira-anggara/)</a> •
-  <a href="https://twitter.com/yudhistira_a_j">![Twitter: Follow @yudhistira_a_j](https://img.shields.io/twitter/follow/yudhistira_a_j?style=social)</a> •
+  [![Email: yudhistira.anggara.j+github@gmail.com](https://img.shields.io/badge/-yudhistira.anggara.j+github@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:yudhistira.anggara.j+github@gmail.com) •
+  [![LinkedIn: Yudhistira Anggara Jayadianta](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yudhistira-anggara/)](https://linkedin.com/in/yudhistira-anggara) •
+  [![Twitter: Follow @yudhistira_a_j](https://img.shields.io/twitter/follow/yudhistira_a_j?style=social)](https://twitter.com/yudhistira_a_j) •
   <!-- <a href="https://yourblog.com">Blog</a> -->
 </p>
 
