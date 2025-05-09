@@ -3,7 +3,7 @@
 <!-- ==================== -->
 
 <p align="center">
-  <img src="YOUR_HEADLINE_IMAGE_OR_AVATAR_URL" alt="Header Image" width="200"/>
+  [YOUR_HEADLINE_IMAGE_OR_AVATAR_URL](https://placehold.co/1584x396/transparent/FFF?font=raleway&text=Welcome+to+My+GitHub)
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Yudhistira Anggara Jayadinata</h1>
@@ -15,15 +15,15 @@
   <!-- Contact / Social Links -->
   <a href="mailto:yudhistira.a.jayadinata+github@gmail.com">✉ Email</a> •
   <a href="https://linkedin.com/in/yudhistira-anggara">LinkedIn</a> •
-  <a href="https://twitter.com/your-handle">Twitter</a> •
-  <a href="https://yourblog.com">Blog</a>
+  <a href="https://twitter.com/yudhistira_a_j">Twitter</a> •
+  <!-- <a href="https://yourblog.com">Blog</a> -->
 </p>
 
 <p align="center">
   <!-- Badges -->
   <img src="https://img.shields.io/badge/Last%20Commit-<DATE>-blue">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-YourUsername-<COLOR>">
-  <img src="https://img.shields.io/badge/Top%20Langs-YourUsername-<COLOR>">
+  <img src="https://img.shields.io/badge/GitHub%20Stats-yudhistira-anggara-<COLOR>">
+  <img src="https://img.shields.io/badge/Top%20Langs-yudhistira-anggara-<COLOR>">
 </p>
 
 ---
@@ -31,19 +31,18 @@
 ## 📖 Table of Contents
 1. [About Me](#about-me)  
 2. [Skills](#skills)  
-3. [Pinned Projects](#pinned-projects)  
-4. [Featured Projects](#featured-projects)  
-5. [Open Source Contributions](#open-source-contributions)  
-6. [Activity & 📈 Stats](#activity---stats)  
-7. [Contact Me](#contact-me)
+<!-- 3. [Pinned Projects](#pinned-projects)  
+4. [Featured Projects](#featured-projects)
+3. [Open Source Contributions](#open-source-contributions) -->
+3. [Activity & 📈 Stats](#activity---stats)  
+4. [Contact Me](#contact-me)
 
 ---
 
 ## 🧐 About Me
-- 🔭 I’m currently working on *Project A* (brief one-line description).  
+- 🔭 I’m currently working on *GIMP* (image editing tool).  
 - 🌱 I’m learning *Technology X* and improving my *Skill Y*.  
 - 💬 Ask me about *Topic 1, **Topic 2, **Topic 3*.  
-- 📫 How to reach me: your.email@example.com  
 
 ---
 
@@ -51,13 +50,13 @@
 
 | Domain       | Technologies                                 |
 | ------------ | -------------------------------------------- |
-| 💻 Languages | Python, JavaScript (ES6+), TypeScript, Go    |
-| 🖥 Frameworks | React, Node.js, Express, Django              |
-| ☁ Cloud     | AWS (Lambda, S3, DynamoDB), Docker, Kubernetes |
-| 📊 Data      | Pandas, NumPy, Scikit-Learn, TensorFlow      |
+| 💻 Languages | ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000), ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) |
+| 🖥 Frameworks | ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white), ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white), ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff), ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff), ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff), ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)              |
+| ☁ Cloud     | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)|
+| 📊 Data      | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff), ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff), ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white), ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)      |
 
 ---
-
+<!--
 ## 📌 Pinned Projects
 Use GitHub’s [Pin feature](https://docs.github.com/en/repositories/organizing-your-repository-with-pins-and-stars/managing-pinned-repositories) to highlight your best work:
 
@@ -96,12 +95,12 @@ Use GitHub’s [Pin feature](https://docs.github.com/en/repositories/organizing-
 ## 🤝 Open Source Contributions
 - Contributed *X* issues and *Y* PRs to [Library/Repo Name](https://github.com/owner/repo).  
 - Active reviewer/maintainer for [Other Project](https://github.com/owner/other).
-
+-->
 ---
 
 ## 📈 Activity & 📊 Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yudhistira-anggara&theme=github" />
 </p>
 
 ---
@@ -109,8 +108,8 @@ Use GitHub’s [Pin feature](https://docs.github.com/en/repositories/organizing-
 ## 📞 Contact Me
 Feel free to reach out for collaboration, freelance projects, or a quick chat:
 
-- *Email:* your.email@example.com  
-- *LinkedIn:* https://linkedin.com/in/your-linkedin  
-- *Twitter:* https://twitter.com/your-handle  
+- *Email:* yudhistira.a.jayadinata@example.com  
+- *LinkedIn:* https://linkedin.com/in/yudhistira-anggara  
+- *Twitter:* https://twitter.com/yudhistira_a_j
 
 ---
