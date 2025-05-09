@@ -21,7 +21,7 @@
 
 <p align="center">
   <!-- Badges -->
-  <img src="https://img.shields.io/github/last-commit/yudhistira-anggara/-yudhistira-anggara">
+  <img src="https://img.shields.io/github/last-commit/yudhistira-anggara/yudhistira-anggara">
   <img src="https://img.shields.io/github/followers/yudhistira-anggara">
 </p>
 
