@@ -1,50 +1,116 @@
-# Hi, Folks! [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://yudhistira-anggara.github.io/)
+<!-- ==================== -->
+<!--       HEADER        -->
+<!-- ==================== -->
 
-![version: 12.12.2024](https://img.shields.io/badge/version-12.12.2024-informational)&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=yudhistira-anggara&style=flat&label=visitors)&nbsp;
-<!-- [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@yudhistira-anggara)&nbsp; -->
-[![GitHub: yudhistira-anggara](https://img.shields.io/github/followers/yudhistira-anggara?label=follow&style=social)](https://github.com/yudhistira-anggara)&nbsp;
+<p align="center">
+  <img src="YOUR_HEADLINE_IMAGE_OR_AVATAR_URL" alt="Header Image" width="200"/>
+</p>
 
-<!-- #### Welcome to my [Codepark](https://yudhistira-anggara.me/)! 🏡 -->
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Yudhistira Anggara Jayadinata</h1>
+<p align="center">
+  <em>I'm a Full-stack Developer, who is all about versatility.</em>
+</p>
 
-## 🛠 Tech Stack
-  [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
-  [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/yudhistira-anggara/)&nbsp;
-  <!-- [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developers.google.com/profile/u/103666064181095934220)&nbsp;
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)&nbsp; -->
-  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)&nbsp;
-  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)&nbsp;
-  [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)&nbsp;
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)&nbsp;
-  [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)&nbsp;
-  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)&nbsp;
-  [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)&nbsp;
+<p align="center">
+  <!-- Contact / Social Links -->
+  <a href="mailto:yudhistira.a.jayadinata+github@gmail.com">✉ Email</a> •
+  <a href="https://linkedin.com/in/yudhistira-anggara">LinkedIn</a> •
+  <a href="https://twitter.com/your-handle">Twitter</a> •
+  <a href="https://yourblog.com">Blog</a>
+</p>
 
-<!-- ## 📊 Top Repositories
-[![Dicoding-AndroidPemula](https://github-readme-stats.vercel.app/api/pin/?username=yudhistira-anggara&repo=Dicoding-AndroidPemula&show_icons=true&theme=radical)](https://github.com/yudhistira-anggara/Dicoding-AndroidPemula) &nbsp;&nbsp; [![Smart-Villager](https://github-readme-stats.vercel.app/api/pin/?username=yudhistira-anggara&repo=Smart-Villager&show_icons=true&theme=radical)](https://github.com/yudhistira-anggara/Smart-Villager) -->
-
-## 📈 Github Stats
-  
-| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yudhistira-anggara&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="yudhistira-anggara's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yudhistira-anggara&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="yudhistira-anggara's Most Used Language">
-| ------------- | ------------- |  
-
-| <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=yudhistira-anggara&hide_border=true&theme=radical">
-| ------------- |
-
-| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=yudhistira-anggara&layout=compact&hide_border=true&theme=radical">](https://github.com/yudhistira-anggara)
-| ------------- |
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Last%20Commit-<DATE>-blue">
+  <img src="https://img.shields.io/badge/GitHub%20Stats-YourUsername-<COLOR>">
+  <img src="https://img.shields.io/badge/Top%20Langs-YourUsername-<COLOR>">
+</p>
 
 ---
 
-<!-- ![yudhistira-anggara's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yudhistira-anggara&hide_border=true&theme=redical) -->
+## 📖 Table of Contents
+1. [About Me](#about-me)  
+2. [Skills](#skills)  
+3. [Pinned Projects](#pinned-projects)  
+4. [Featured Projects](#featured-projects)  
+5. [Open Source Contributions](#open-source-contributions)  
+6. [Activity & 📈 Stats](#activity---stats)  
+7. [Contact Me](#contact-me)
 
-## 🤝🏻 Connect with Me!
-[![Email](https://img.shields.io/badge/-yudhistira.a.jayadinata@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:yudhistira.a.jayadinata@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yudhistira-anggara/)&nbsp;
-<!-- [![Instagram: Follow yudhistira-anggara](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yudhistira.anggara_)&nbsp;
-[![Telegram: yudhistira-anggara](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/yudhistira-anggara)](https://t.me/yudhistira-anggara)&nbsp;
-[![Linktree: yudhistira-anggara](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/yudhistira-anggara)](https://linktr.ee/yudhistira-anggara)&nbsp;
-[![Twitter: Follow @yudhistira-anggara](https://img.shields.io/twitter/follow/yudhistira-anggara?style=social)](https://twitter.com/yudhistira-anggara) -->
 ---
 
-<img align="center" src="https://github.com/yudhistira-anggara/yudhistira-anggara/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
+## 🧐 About Me
+- 🔭 I’m currently working on *Project A* (brief one-line description).  
+- 🌱 I’m learning *Technology X* and improving my *Skill Y*.  
+- 💬 Ask me about *Topic 1, **Topic 2, **Topic 3*.  
+- 📫 How to reach me: your.email@example.com  
+
+---
+
+## 🛠 Skills
+
+| Domain       | Technologies                                 |
+| ------------ | -------------------------------------------- |
+| 💻 Languages | Python, JavaScript (ES6+), TypeScript, Go    |
+| 🖥 Frameworks | React, Node.js, Express, Django              |
+| ☁ Cloud     | AWS (Lambda, S3, DynamoDB), Docker, Kubernetes |
+| 📊 Data      | Pandas, NumPy, Scikit-Learn, TensorFlow      |
+
+---
+
+## 📌 Pinned Projects
+Use GitHub’s [Pin feature](https://docs.github.com/en/repositories/organizing-your-repository-with-pins-and-stars/managing-pinned-repositories) to highlight your best work:
+
+<p align="center">
+  <a href="https://github.com/yourusername/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-1" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/yourusername/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-2" alt="Project 2"/>
+  </a>
+  <a href="https://github.com/yourusername/project-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-3" alt="Project 3"/>
+  </a>
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### [Project 1](https://github.com/yourusername/project-1)  
+> *Problem:* Describe the core challenge or goal.  
+> *Solution:* Summarize your approach or tech stack.  
+> *Your Role:* e.g. Full-stack development, CI/CD setup, performance tuning.  
+> *Impact:* Metrics or outcomes (e.g. 10k monthly users, 99% test coverage).
+
+---
+
+### [Project 2](https://github.com/yourusername/project-2)  
+> *Problem:* …  
+> *Solution:* …  
+> *Your Role:* …  
+> *Impact:* …
+
+---
+
+## 🤝 Open Source Contributions
+- Contributed *X* issues and *Y* PRs to [Library/Repo Name](https://github.com/owner/repo).  
+- Active reviewer/maintainer for [Other Project](https://github.com/owner/other).
+
+---
+
+## 📈 Activity & 📊 Stats
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github" />
+</p>
+
+---
+
+## 📞 Contact Me
+Feel free to reach out for collaboration, freelance projects, or a quick chat:
+
+- *Email:* your.email@example.com  
+- *LinkedIn:* https://linkedin.com/in/your-linkedin  
+- *Twitter:* https://twitter.com/your-handle  
+
+---
