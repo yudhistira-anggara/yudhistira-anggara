@@ -41,8 +41,8 @@
 ---
 
 ## <a name="about-me">🧐 About Me</a>
-- 🔭 I’m currently working on *GIMP* (image editing tool).  
-- 🌱 I’m learning *Docker* and improving my *Coding Skill*.  
+- 🔭 I’m currently working on *GIMP* (image editing tool) and other Close Source Projects from [PT Pupuk Kaltim](https://github.com/pupukkaltim).  
+- 🌱 I’m learning *Docker* and improving my *Coding*, *Analytical*, *AI skills*.  
 - 💬 Ask me about *Programming,* *Artificial Intelligence,* *Journal & Ethics.*  
 
 ---
